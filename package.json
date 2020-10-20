@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node ."
   },
-  "repository": "https://github.com/daeks/",
+  "repository": "https://github.com/daeks/plex-utils",
   "author": "daeks (https://github.com/daeks)",
   "contributors": [],
   "license": "MIT",
