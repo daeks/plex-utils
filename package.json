@@ -1,0 +1,19 @@
+{
+  "name": "plex",
+  "version": "0.0.1",
+  "description": "PLEX Utils",
+  "main": "index.js",
+  "engines": {
+    "node": ">=13.7.0"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": "https://github.com/daeks/",
+  "author": "daeks (https://github.com/daeks)",
+  "contributors": [],
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^4.1.1"
+  }
+}
